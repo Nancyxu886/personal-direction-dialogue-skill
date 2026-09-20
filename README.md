@@ -49,16 +49,14 @@
 
 将本仓库作为 skill 放入 Codex 的 skills 目录，并保留以下结构：
 
-
 ```text
-a personal-direction-dialogue/
+personal-direction-dialogue/
 ├── SKILL.md
 ├── agents/openai.yaml
 └── references/question-patterns.md
 ```
 
 安装后可使用 Skill ID：
-
 
 ```text
 $personal-direction-dialogue
