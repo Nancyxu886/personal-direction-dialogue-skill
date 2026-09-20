@@ -1,0 +1,4 @@
+interface:
+  display_name: "生活与职业方向探索"
+  short_description: "陪想改变生活或职业转型的人反复探索内心与现实，逐步澄清意愿、资源和支持"
+  default_prompt: "请用 $personal-direction-dialogue 陪我探索生活现状或职业方向。我还没完全想清楚，请一次问一个问题。"
